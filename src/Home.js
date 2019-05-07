@@ -6,9 +6,7 @@ import { Player } from 'video-react';
 
 export const Home = () => (
   <div>
-  <Player>
-   <source src="/assets/volansvid.mp4" />
- </Player>
+    <h2> Text goe shere </h2>
   </div>
 
 )
