@@ -18,14 +18,8 @@ const Styles = styled.div`
 export const NavigationBar = () => (
   <Styles>
     <Navbar expand="lg">
-      <Navbar.Brand href="/">Real CountDown</Navbar.Brand>
-      <img
-       src="/assets/icon.png"
-       width="30"
-       height="30"
-       className="d-inline-block align-top"
-       alt="React Bootstrap logo"
-     />
+      <Navbar.Brand href="/">Mariela Portfolio</Navbar.Brand>
+      
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
