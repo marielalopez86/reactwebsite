@@ -63,7 +63,7 @@ export const Login = () => (
         <div class="form-check-radio">
     <label class="form-check-label">
       <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" />
-      Agent
+      Option One
       <span class="form-check-sign"></span>
     </label>
   </div>
@@ -71,7 +71,7 @@ export const Login = () => (
   <div class="form-check-radio">
     <label class="form-check-label">
       <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2"  />
-      Seller
+      Option Two
       <span class="form-check-sign"></span>
     </label>
   </div>
@@ -79,7 +79,7 @@ export const Login = () => (
   <div class="form-check-radio disabled">
     <label class="form-check-label">
       <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios3" value="option3"  />
-      Buyer
+      Option Three
       <span class="form-check-sign"></span>
     </label>
   </div>
